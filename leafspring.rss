@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>LeafSpring</title><link>http://labcarpentry.org/leafspring/</link><description></description><lastBuildDate>Wed, 20 Jul 2016 14:00:00 +0200</lastBuildDate><item><title>How do I choose what opportunities to say yes to?</title><link>http://labcarpentry.org/leafspring/how-do-i-choose-what-opportunities-to-say-yes-to.html</link><description>&lt;p&gt;Dear Leafspring,&lt;/p&gt;
+<rss version="2.0"><channel><title>LeafSpring</title><link>http://labcarpentry.org/leafspring/</link><description></description><lastBuildDate>Mon, 25 Jul 2016 13:35:00 +0200</lastBuildDate><item><title>How we hire.</title><link>http://labcarpentry.org/leafspring/how-we-hire.html</link><description>&lt;p&gt;A &lt;a href="https://twitter.com/hollybik/status/753002258422530048"&gt;twitter conversation&lt;/a&gt;
+with &lt;a href="http://www.hollybik.com/"&gt;Holly Bik&lt;/a&gt; recently led to a conversation around our lab's hiring practices. I took the
+opportunity to put together a blog post around our goals and procedures.&lt;/p&gt;
+&lt;h2&gt;What's the goal of our postdoc interviews?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Find the person who will be most effective in our lab.&lt;/li&gt;
+&lt;li&gt;Help each interviewee determine whether or not our lab is the right environment for them to reach their goals.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;What are the challenges with postdoc interviews?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;There are many factors that determine whether or not someone will succeed, and an interview is often only one day. Most of us do not work somewhere that will allow us to host &lt;a href="https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team"&gt;"auditions"&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Unconscious biases (potential hiring for shared interests as opposed to effectiveness)&lt;/li&gt;
+&lt;li&gt;Candidates may feel pressure to say what you want to hear.&lt;/li&gt;
+&lt;li&gt;We (especially as new PIs) may feel pressure to say what the candidate wants to hear.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;So how does our lab approach a postdoc interview?&lt;/h2&gt;
+&lt;h3&gt;Schedule&lt;/h3&gt;
+&lt;p&gt;We schedule people for one day with the group, and one day in the city to find housing opportunities. The standard schedule will be something like:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Day ~ -60:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The candidate may have met me or a lab member at a conference and there was mutual interest in research opportunities and backgrounds. I've had a follow-up phone call with the candidate to discuss our lab's expectations for a postdoc and what the postdoc's expectations should be of us. I mention our &lt;a href="http://greenelab-onboarding.readthedocs.io"&gt;lab's onboarding document&lt;/a&gt;, and the candidate can ask questions or file a pull request. After this, if the candidate is interested in a postdoc position in our group we invite them to join us for an interview. We make travel arrangements for the candidate (airfare, hotel).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Day 0:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The candidate arrives in the afternoon or evening and checks into the hotel.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Day 1:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I meet the candidate in the lobby of their hotel. We go to a nearby restaurant for breakfast. We discuss the process including structured interviews, etc and then head over to the lab to start the interviews.&lt;/p&gt;
+&lt;p&gt;The day consists of approximately five &lt;strong&gt;structured interviews&lt;/strong&gt; during the day with lab members. At least two involve some sort of whiteboard programming activity because we view this as an absolutely essential skill to have for a successful postdoc of reasonable duration in our group.&lt;/p&gt;
+&lt;p&gt;At some point, usually at lunch, we gather with our lab members and other interested labs to hear the candidate give a talk. This talk is scheduled for a two hour window. We've asked the candidate to prepare a 45 minute talk, and with questions we've found that this usually takes all or most of the two hour time slot.&lt;/p&gt;
+&lt;p&gt;Happy Hour/Dinner - At the end of the day we take the candidate to a happy hour nearby to talk about the lab. I end up leaving early, and 2-3 lab members take the candidate to dinner to discuss the lab.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Day 2:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The candidate uses this day however they need to. He or she can wander around the city of Philadelphia, look at housing options, and maybe check out a local museum if time permits. Candidates will generally fly home in the evening.&lt;/p&gt;
+&lt;h3&gt;Who interviews the candidate?&lt;/h3&gt;
+&lt;p&gt;We aim to have each candidate interview with at least one person at each level within the lab. This means they will talk with an undergraduate, graduate, postdoc, programmer, and me. We want to make sure that people are respectful of our team members at all levels. This also gives our lab members experience interviewing so that they know what to expect in the future. When my lab was smaller and still growing, I asked colleagues for help with the interviews. I was able to bring in people from other labs with relevant expertise or an unrepresented level within my lab (e.g. bring in another lab’s postdoc before you hire postdocs).&lt;/p&gt;
+&lt;h3&gt;What are the in person structured interviews?&lt;/h3&gt;
+&lt;p&gt;We use structured interviews. Each member of the lab who will be interviewing selects 3-4 questions that touch on a distinct area that we view as important to the job. These questions are modeled on &lt;a href="http://www.va.gov/pbi/questions.asp"&gt;structured interview question examples from the VA&lt;/a&gt;. For each question, the interviewer pre-plans for ~4 follow-ups that dig into specifics of the answer. In the week leading up to the interview, interviewers share the questions that they plan to ask with each other. This allows our lab to make sure we touch on distinct areas. Interviewers tend to adapt and reuse their own questions across interviews.&lt;/p&gt;
+&lt;h3&gt;How do we do a programming assessment?&lt;/h3&gt;
+&lt;p&gt;We view this as an important skill for timely success in our lab. During at least two interview periods, which are scheduled for a longer period of time, the candidate is asked to whiteboard code to solve some problem. We look for some knowledge of syntax, the ability to design an approach to the problem, etc.&lt;/p&gt;
+&lt;h3&gt;How do we score interviews?&lt;/h3&gt;
+&lt;p&gt;For each question/programming assessment, the interviewer scores a candidate from one to five, and a three on our scale is a "good hire." Five is a "strong faculty candidate" answer. These scores can help to define what I emphasize for training when someone starts in our lab. Each interviewer also provides an overall score.&lt;/p&gt;
+&lt;h3&gt;What happens after the interview?&lt;/h3&gt;
+&lt;p&gt;I collect feedback from the lab. I talk with any interviewer who assigns the response to any question as a one or two to find out why that score was appropriate. We aim to make hire/no hire decisions on an individual (as opposed to competitive) basis. This can make conversations more difficult when we decide not to make an offer, but it avoids the pressure of feeling like we need to hire one of the candidates if none are good fits for our group. In total, this process generally takes about a week. Including getting the offer letter from HR, this means that we have about a two week turnaround for postdoc candidates after the interview. For staff positions that go through a different process within HR, the process can be slower.&lt;/p&gt;
+&lt;h2&gt;Reading materials:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790"&gt;Work Rules - Laszlo Bock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hbr.org/2016/04/how-to-take-the-bias-out-of-interviews"&gt;How to take the bias out of interviews - Iris Bohnet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hbr.org/2016/07/designing-a-bias-free-organization"&gt;Designing a bias-free organization - Gardiner Morse&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://greenelab-onboarding.readthedocs.io/en/latest/"&gt;Greene Lab Onboarding Document - Greene Laboratory&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;Side note on this blog: the LeafSpring blog contains both anonymous posts and those written by named contributors. Anonymous posts are by the author &lt;a href="http://labcarpentry.org/leafspring/author/leafspring.html"&gt;LeafSpring&lt;/a&gt;. This post is by (Casey Greene)[http://greenelab.com].&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Casey Greene</dc:creator><pubDate>Mon, 25 Jul 2016 13:35:00 +0200</pubDate><guid isPermaLink="false">tag:labcarpentry.org,2016-07-25:leafspring/how-we-hire.html</guid></item><item><title>How do I choose what opportunities to say yes to?</title><link>http://labcarpentry.org/leafspring/how-do-i-choose-what-opportunities-to-say-yes-to.html</link><description>&lt;p&gt;Dear Leafspring,&lt;/p&gt;
 &lt;p&gt;As a new faculty member, I am being offered the chance to get involved
 with many things, ranging from new collaborative projects to workshops
 at conferences to editorial board memberships.  How do I choose what
