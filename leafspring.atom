@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>LeafSpring</title><link href="http://labcarpentry.org/leafspring/" rel="alternate"></link><link href="http://labcarpentry.org/leafspring/leafspring.atom" rel="self"></link><id>http://labcarpentry.org/leafspring/</id><updated>2016-07-25T13:35:00+02:00</updated><entry><title>How we hire.</title><link href="http://labcarpentry.org/leafspring/how-we-hire.html" rel="alternate"></link><published>2016-07-25T13:35:00+02:00</published><author><name>Casey Greene</name></author><id>tag:labcarpentry.org,2016-07-25:leafspring/how-we-hire.html</id><summary type="html">&lt;p&gt;A &lt;a href="https://twitter.com/hollybik/status/753002258422530048"&gt;twitter conversation&lt;/a&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>LeafSpring</title><link href="http://labcarpentry.org/leafspring/" rel="alternate"></link><link href="http://labcarpentry.org/leafspring/leafspring.atom" rel="self"></link><id>http://labcarpentry.org/leafspring/</id><updated>2016-07-29T10:40:00+02:00</updated><entry><title>Who contributes to LeafSpring?</title><link href="http://labcarpentry.org/leafspring/who-contributes-to-leafspring.html" rel="alternate"></link><published>2016-07-29T10:40:00+02:00</published><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-07-29:leafspring/who-contributes-to-leafspring.html</id><summary type="html">&lt;p&gt;A reader writes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dear LeafSpring,&lt;/p&gt;
+&lt;p&gt;What's the gender and racial balance among your contributors?&lt;/p&gt;
+&lt;p&gt;Name Removed&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;p&gt;Dear NR,&lt;/p&gt;
+&lt;p&gt;Our contributors to date have been 60% male, 40% female and all of them are non-hispanic white.&lt;/p&gt;
+&lt;p&gt;We're in the process of adding contributors as the blog comes online, and will post an update once our core group
+is established.&lt;/p&gt;
+&lt;p&gt;Sincerely,
+LeafSpring&lt;/p&gt;</summary></entry><entry><title>How we hire.</title><link href="http://labcarpentry.org/leafspring/how-we-hire.html" rel="alternate"></link><published>2016-07-25T13:35:00+02:00</published><author><name>Casey Greene</name></author><id>tag:labcarpentry.org,2016-07-25:leafspring/how-we-hire.html</id><summary type="html">&lt;p&gt;A &lt;a href="https://twitter.com/hollybik/status/753002258422530048"&gt;twitter conversation&lt;/a&gt;
 with &lt;a href="http://www.hollybik.com/"&gt;Holly Bik&lt;/a&gt; recently led to a conversation around our lab's hiring practices. I took the
 opportunity to put together a blog post around our goals and procedures.&lt;/p&gt;
 &lt;h2&gt;What's the goal of our postdoc interviews?&lt;/h2&gt;
