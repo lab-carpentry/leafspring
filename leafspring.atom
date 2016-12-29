@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>LeafSpring</title><link href="http://labcarpentry.org/leafspring/" rel="alternate"></link><link href="http://labcarpentry.org/leafspring/leafspring.atom" rel="self"></link><id>http://labcarpentry.org/leafspring/</id><updated>2016-09-08T10:45:00+02:00</updated><entry><title>How do I foster a supportive lab family?</title><link href="http://labcarpentry.org/leafspring/how-do-i-foster-a-supportive-lab-family.html" rel="alternate"></link><published>2016-09-08T10:45:00+02:00</published><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-09-08:leafspring/how-do-i-foster-a-supportive-lab-family.html</id><summary type="html">&lt;p&gt;Dear Leafspring,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>LeafSpring</title><link href="http://labcarpentry.org/leafspring/" rel="alternate"></link><link href="http://labcarpentry.org/leafspring/leafspring.atom" rel="self"></link><id>http://labcarpentry.org/leafspring/</id><updated>2016-11-08T11:20:00+01:00</updated><entry><title>LeafSpring contributors, November 2016.</title><link href="http://labcarpentry.org/leafspring/leafspring-contributors-november-2016.html" rel="alternate"></link><published>2016-11-08T11:20:00+01:00</published><updated>2016-11-08T11:20:00+01:00</updated><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-11-08:/leafspring/leafspring-contributors-november-2016.html</id><summary type="html">&lt;p&gt;LeafSpring is an anonymized advice blog written by a group of scientists. But
+it's important to note that not all posts are written by all authors, and not
+all authors approve of all posts. As authors, we don't endorse all of the
+opinions in any response posted by the collective …&lt;/p&gt;</summary><content type="html">&lt;p&gt;LeafSpring is an anonymized advice blog written by a group of scientists. But
+it's important to note that not all posts are written by all authors, and not
+all authors approve of all posts. As authors, we don't endorse all of the
+opinions in any response posted by the collective. Some authors have elected to
+make their participation in this effort public, and are listed below.&lt;/p&gt;
+&lt;p&gt;Finally, a subset of posts may be posted by individual authors. These are
+labeled by the author that contributed the post.&lt;/p&gt;
+&lt;p&gt;With that aside, the current set of contributors includes but is not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.avasthilab.org"&gt;Prachee Avasthi&lt;/a&gt; (University of Kansas Medical Center)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://greenelab.com"&gt;Casey Greene&lt;/a&gt; (University of Pennsylvania)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arfc.npre.illinois.edu"&gt;Kathryn Huff&lt;/a&gt; (University of Illinois at Urbana-Champaign)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.csc.ncsu.edu/faculty/bdsullivan"&gt;Blair D. Sullivan&lt;/a&gt; (North Carolina State University)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ethanwhite.org"&gt;Ethan P. White&lt;/a&gt; (University of Florida)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sincerely,
+The LeafSpring Team&lt;/p&gt;</content></entry><entry><title>How do I foster a supportive lab family?</title><link href="http://labcarpentry.org/leafspring/how-do-i-foster-a-supportive-lab-family.html" rel="alternate"></link><published>2016-09-08T10:45:00+02:00</published><updated>2016-09-08T10:45:00+02:00</updated><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-09-08:/leafspring/how-do-i-foster-a-supportive-lab-family.html</id><summary type="html">&lt;p&gt;Dear Leafspring,&lt;/p&gt;
+&lt;p&gt;Some of the best times I had as a trainee were when I felt part of a ‘lab family’. How do I foster a fun, social and supportive atmosphere in my own year-old, small (me + 2 grad students), but growing (2 more students next year, hopefully a postdoc …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dear Leafspring,&lt;/p&gt;
 &lt;p&gt;Some of the best times I had as a trainee were when I felt part of a ‘lab family’. How do I foster a fun, social and supportive atmosphere in my own year-old, small (me + 2 grad students), but growing (2 more students next year, hopefully a postdoc) group without coming across as inappropriate/overly friendly/trying to force things?&lt;/p&gt;
 &lt;p&gt;Yours,
 Trying to be professional&lt;/p&gt;
 &lt;p&gt;P.S. This was inspired by this blog post: &lt;a href="http://lettersfromgradschool.org/dont-check-your-optimism-at-the-door/"&gt;http://lettersfromgradschool.org/dont-check-your-optimism-at-the-door/&lt;/a&gt;&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;Dear TTBP,&lt;/p&gt;
 &lt;p&gt;We had a number of thoughts on thinking about a lab as a family. While this seems like a nice idea, we had some concerns that a family might not be precisely the right metaphor. Perhaps thinking of a lab as a team, which still has camaraderie and is acting with a shared purpose, would be a better fit. This puts you in the role of a team captain and/or coach. So how can you encourage teambuilding without harming your ability to lead?&lt;/p&gt;
 &lt;p&gt;There are a number of steps that we recommend to make sure that your social and work environments are places that are safe and friendly.&lt;/p&gt;
@@ -41,10 +61,15 @@ Trying to be professional&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;So TTBP, we believe thinking of the group as a team instead of a family is a more useful metaphor. We hope these ideas help you create an environment that brings your team together.&lt;/p&gt;
 &lt;p&gt;Sincerely,
-Leafspring&lt;/p&gt;</summary></entry><entry><title>How can preprints help my career?</title><link href="http://labcarpentry.org/leafspring/how-can-preprints-help-my-career.html" rel="alternate"></link><published>2016-08-17T10:15:00+02:00</published><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-08-17:leafspring/how-can-preprints-help-my-career.html</id><summary type="html">&lt;p&gt;Dear Leafspring,&lt;/p&gt;
+Leafspring&lt;/p&gt;</content></entry><entry><title>How can preprints help my career?</title><link href="http://labcarpentry.org/leafspring/how-can-preprints-help-my-career.html" rel="alternate"></link><published>2016-08-17T10:15:00+02:00</published><updated>2016-08-17T10:15:00+02:00</updated><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-08-17:/leafspring/how-can-preprints-help-my-career.html</id><summary type="html">&lt;p&gt;Dear Leafspring,&lt;/p&gt;
 &lt;p&gt;I see discussion from senior biologists about the benefits of preprints. As a faculty member just starting my lab in a biological science, will preprints help me or hurt me?&lt;/p&gt;
 &lt;p&gt;Unsure on Preprints&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
+&lt;p&gt;Dear UP,&lt;/p&gt;
+&lt;p&gt;We can't tell you yet if preprints will help your career or harm …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dear Leafspring,&lt;/p&gt;
+&lt;p&gt;I see discussion from senior biologists about the benefits of preprints. As a faculty member just starting my lab in a biological science, will preprints help me or hurt me?&lt;/p&gt;
+&lt;p&gt;Unsure on Preprints&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;Dear UP,&lt;/p&gt;
 &lt;p&gt;We can't tell you yet if preprints will help your career or harm it. We do think that there are substantial benefits to preprints in the overall process of science. We'll initially cover some baseline information about preprints, and then we'll talk about how, in our own experience, a new lab can maximize their benefits from the preprints that they post.&lt;/p&gt;
 &lt;p&gt;Why are preprints coming on to the scene now in biology?&lt;/p&gt;
@@ -103,12 +128,19 @@ Leafspring&lt;/p&gt;</summary></entry><entry><title>How can preprints help my ca
 &lt;li&gt;Submitting a preprint or providing feedback to authors on preprints will promote their usage. &lt;/li&gt;
 &lt;li&gt;Mentioning preprints at the end of a seminar or conference presentation can increase visibility of this mechanism.&lt;/li&gt;
 &lt;li&gt;The Accelerating Science and Publication in Biology (ASAPbio) organization promotes preprints in the life sciences. One can volunteer to be an institutional ambassador for ASAPbio (http://asapbio.org/asapbio-ambassadors). &lt;/li&gt;
-&lt;/ul&gt;</summary></entry><entry><title>What should I look for in my offer letter?</title><link href="http://labcarpentry.org/leafspring/what-should-i-look-for-in-my-offer-letter.html" rel="alternate"></link><published>2016-08-03T14:40:00+02:00</published><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-08-03:leafspring/what-should-i-look-for-in-my-offer-letter.html</id><summary type="html">&lt;blockquote&gt;
+&lt;/ul&gt;</content></entry><entry><title>What should I look for in my offer letter?</title><link href="http://labcarpentry.org/leafspring/what-should-i-look-for-in-my-offer-letter.html" rel="alternate"></link><published>2016-08-03T14:40:00+02:00</published><updated>2016-08-03T14:40:00+02:00</updated><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-08-03:/leafspring/what-should-i-look-for-in-my-offer-letter.html</id><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;Dear LeafSpring,&lt;/p&gt;
 &lt;p&gt;What should I look for in my offer letter that I might otherwise miss?&lt;/p&gt;
 &lt;p&gt;Offer Up&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
+&lt;p&gt;Dear OU,&lt;/p&gt;
+&lt;p&gt;This is a tough one, because every offer letter is going to be different and each lab has its own unique set of needs. We'll detail some of the items …&lt;/p&gt;</summary><content type="html">&lt;blockquote&gt;
+&lt;p&gt;Dear LeafSpring,&lt;/p&gt;
+&lt;p&gt;What should I look for in my offer letter that I might otherwise miss?&lt;/p&gt;
+&lt;p&gt;Offer Up&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
 &lt;p&gt;Dear OU,&lt;/p&gt;
 &lt;p&gt;This is a tough one, because every offer letter is going to be different and each lab has its own unique set of needs. We'll detail some of the items that may be important for you to consider, with special focus on items that are easy to miss.  We've divided this into your obligations, resources startup, and restrictions on your offer.  The bottom line is that the only promises you can count on are the ones that are spelled out in writing -- either in the letter itself, university policies, or in emails with your department head.  (Even if you get along great with your chair, your chair may step down 3 years into your position!)&lt;/p&gt;
 &lt;h2&gt;Your Obligations&lt;/h2&gt;
@@ -147,19 +179,34 @@ Leafspring&lt;/p&gt;</summary></entry><entry><title>How can preprints help my ca
 &lt;ul&gt;
 &lt;li&gt;Universities often assume that you will find things like family leave spelled out in their policies, which are frequently byzantine. Nonetheless administrators will assume that you know everything in them (and then be surprised when you ask about something that's covered on page 552 - "oh, that's in the policy book!").  We might suggest putting together a few hypotheticals ("I adopt a child; how much time off do I get? do I get a tenure extension? if my partner is employed by the same university, do we share our time off?") and running through the policy book to see what would happen in each case.&lt;/li&gt;
 &lt;li&gt;Health coverage can vary between universities. It can be very important and is often ignored by new faculty. Generally the only way to really find out what's up with health coverage is to talk to recent faculty (note that older faculty may be covered under other health care guidelines; universities, like everyone else, are constantly cutting benefits for new hires).&lt;/li&gt;
-&lt;/ul&gt;</summary></entry><entry><title>Who contributes to LeafSpring?</title><link href="http://labcarpentry.org/leafspring/who-contributes-to-leafspring.html" rel="alternate"></link><published>2016-07-29T10:40:00+02:00</published><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-07-29:leafspring/who-contributes-to-leafspring.html</id><summary type="html">&lt;p&gt;A reader writes:&lt;/p&gt;
+&lt;/ul&gt;</content></entry><entry><title>Who contributes to LeafSpring?</title><link href="http://labcarpentry.org/leafspring/who-contributes-to-leafspring.html" rel="alternate"></link><published>2016-07-29T10:40:00+02:00</published><updated>2016-07-29T10:40:00+02:00</updated><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-07-29:/leafspring/who-contributes-to-leafspring.html</id><summary type="html">&lt;p&gt;A reader writes:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Dear LeafSpring,&lt;/p&gt;
 &lt;p&gt;What's the gender and racial balance among your contributors?&lt;/p&gt;
 &lt;p&gt;Name Removed&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
+&lt;p&gt;Dear NR,&lt;/p&gt;
+&lt;p&gt;Our contributors to date have been 60% male, 40% female and all of them are non-hispanic white.&lt;/p&gt;
+&lt;p&gt;We're in the process of adding contributors as the blog comes online, and will post …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A reader writes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dear LeafSpring,&lt;/p&gt;
+&lt;p&gt;What's the gender and racial balance among your contributors?&lt;/p&gt;
+&lt;p&gt;Name Removed&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
 &lt;p&gt;Dear NR,&lt;/p&gt;
 &lt;p&gt;Our contributors to date have been 60% male, 40% female and all of them are non-hispanic white.&lt;/p&gt;
 &lt;p&gt;We're in the process of adding contributors as the blog comes online, and will post an update once our core group
 is established.&lt;/p&gt;
 &lt;p&gt;Sincerely,
-LeafSpring&lt;/p&gt;</summary></entry><entry><title>How we hire.</title><link href="http://labcarpentry.org/leafspring/how-we-hire.html" rel="alternate"></link><published>2016-07-25T13:35:00+02:00</published><author><name>Casey Greene</name></author><id>tag:labcarpentry.org,2016-07-25:leafspring/how-we-hire.html</id><summary type="html">&lt;p&gt;A &lt;a href="https://twitter.com/hollybik/status/753002258422530048"&gt;twitter conversation&lt;/a&gt;
+LeafSpring&lt;/p&gt;</content></entry><entry><title>How we hire.</title><link href="http://labcarpentry.org/leafspring/how-we-hire.html" rel="alternate"></link><published>2016-07-25T13:35:00+02:00</published><updated>2016-07-25T13:35:00+02:00</updated><author><name>Casey Greene</name></author><id>tag:labcarpentry.org,2016-07-25:/leafspring/how-we-hire.html</id><summary type="html">&lt;p&gt;A &lt;a href="https://twitter.com/hollybik/status/753002258422530048"&gt;twitter conversation&lt;/a&gt;
+with &lt;a href="http://www.hollybik.com/"&gt;Holly Bik&lt;/a&gt; recently led to a conversation around our lab's hiring practices. I took the
+opportunity to put together a blog post around our goals and procedures.&lt;/p&gt;
+&lt;h2&gt;What's the goal of our postdoc interviews?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Find the person who will be most effective in our lab.&lt;/li&gt;
+&lt;li&gt;Help …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;A &lt;a href="https://twitter.com/hollybik/status/753002258422530048"&gt;twitter conversation&lt;/a&gt;
 with &lt;a href="http://www.hollybik.com/"&gt;Holly Bik&lt;/a&gt; recently led to a conversation around our lab's hiring practices. I took the
 opportunity to put together a blog post around our goals and procedures.&lt;/p&gt;
 &lt;h2&gt;What's the goal of our postdoc interviews?&lt;/h2&gt;
@@ -205,14 +252,19 @@ opportunity to put together a blog post around our goals and procedures.&lt;/p&g
 &lt;li&gt;&lt;a href="https://hbr.org/2016/07/designing-a-bias-free-organization"&gt;Designing a bias-free organization - Gardiner Morse&lt;/a&gt; &lt;/li&gt;
 &lt;li&gt;&lt;a href="http://greenelab-onboarding.readthedocs.io/en/latest/"&gt;Greene Lab Onboarding Document - Greene Laboratory&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;Please note the LeafSpring blog contains two types of posts: (1) advice/answers presented anonymously with consensus from the contributors -- these posts have author &lt;a href="http://labcarpentry.org/leafspring/author/leafspring.html"&gt;LeafSpring&lt;/a&gt;; and (2) information or opinions on relevant topics contributed by named authors. This post is of the latter type, and contributed by &lt;a href="http://greenelab.com"&gt;Casey Greene&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>How do I choose what opportunities to say yes to?</title><link href="http://labcarpentry.org/leafspring/how-do-i-choose-what-opportunities-to-say-yes-to.html" rel="alternate"></link><published>2016-07-20T14:00:00+02:00</published><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-07-20:leafspring/how-do-i-choose-what-opportunities-to-say-yes-to.html</id><summary type="html">&lt;p&gt;Dear Leafspring,&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Please note the LeafSpring blog contains two types of posts: (1) advice/answers presented anonymously with consensus from the contributors -- these posts have author &lt;a href="http://labcarpentry.org/leafspring/author/leafspring.html"&gt;LeafSpring&lt;/a&gt;; and (2) information or opinions on relevant topics contributed by named authors. This post is of the latter type, and contributed by &lt;a href="http://greenelab.com"&gt;Casey Greene&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>How do I choose what opportunities to say yes to?</title><link href="http://labcarpentry.org/leafspring/how-do-i-choose-what-opportunities-to-say-yes-to.html" rel="alternate"></link><published>2016-07-20T14:00:00+02:00</published><updated>2016-07-20T14:00:00+02:00</updated><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-07-20:/leafspring/how-do-i-choose-what-opportunities-to-say-yes-to.html</id><summary type="html">&lt;p&gt;Dear Leafspring,&lt;/p&gt;
+&lt;p&gt;As a new faculty member, I am being offered the chance to get involved
+with many things, ranging from new collaborative projects to workshops
+at conferences to editorial board memberships.  How do I choose what
+to say yes to and what to say no to?&lt;/p&gt;
+&lt;p&gt;Besieged With Opportunities …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dear Leafspring,&lt;/p&gt;
 &lt;p&gt;As a new faculty member, I am being offered the chance to get involved
 with many things, ranging from new collaborative projects to workshops
 at conferences to editorial board memberships.  How do I choose what
 to say yes to and what to say no to?&lt;/p&gt;
 &lt;p&gt;Besieged With Opportunities&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;Dear BWO,&lt;/p&gt;
 &lt;p&gt;Congratulations on your faculty position!&lt;/p&gt;
 &lt;p&gt;This problem doesn't get any smaller as you go further in your career. You'll
@@ -278,7 +330,12 @@ This can help to provide perspective on your visibility even at times when
 you feel invisible because you're declining opportunities to focus on other
 things (professional or personal). It can also counter the worry that "If I
 don't say yes now, I'll never get asked to do this again," which is almost
-never true. &lt;/p&gt;</summary></entry><entry><title>Ask LeafSpring</title><link href="http://labcarpentry.org/leafspring/ask-leafspring.html" rel="alternate"></link><published>2016-07-18T09:00:00+02:00</published><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-07-18:leafspring/ask-leafspring.html</id><summary type="html">&lt;p&gt;Hello, and welcome to the LeafSpring blog!&lt;/p&gt;
+never true. &lt;/p&gt;</content></entry><entry><title>Ask LeafSpring</title><link href="http://labcarpentry.org/leafspring/ask-leafspring.html" rel="alternate"></link><published>2016-07-18T09:00:00+02:00</published><updated>2016-07-18T09:00:00+02:00</updated><author><name>LeafSpring</name></author><id>tag:labcarpentry.org,2016-07-18:/leafspring/ask-leafspring.html</id><summary type="html">&lt;p&gt;Hello, and welcome to the LeafSpring blog!&lt;/p&gt;
+&lt;p&gt;LeafSpring is an unhacker uncollective of open scientists who are on
+the tenure track in academia. (Some of us are tenured, some of us are
+not.) You'll see anonymized LeafSpring posts from the group, as well
+as posts from individuals.&lt;/p&gt;
+&lt;p&gt;We're using this …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello, and welcome to the LeafSpring blog!&lt;/p&gt;
 &lt;p&gt;LeafSpring is an unhacker uncollective of open scientists who are on
 the tenure track in academia. (Some of us are tenured, some of us are
 not.) You'll see anonymized LeafSpring posts from the group, as well
@@ -292,4 +349,4 @@ combine open science with a career in the research intensive
 professoriate. This includes how to use and highlight open science techniques
 to get jobs, win grants, gain tenure, and be both happy and successful.&lt;/p&gt;
 &lt;p&gt;Send your questions to leafspring.labcarpentry@gmail.com and we'll answer
-them here, appropriately anonymized.&lt;/p&gt;</summary></entry></feed>
+them here, appropriately anonymized.&lt;/p&gt;</content></entry></feed>
